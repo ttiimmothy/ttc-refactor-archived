@@ -1,0 +1,6 @@
+{
+  "cSpell.words": ["fluentui", "NVAS", "webfonts"],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
+}
