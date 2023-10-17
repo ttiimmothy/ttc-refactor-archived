@@ -2,6 +2,7 @@
   "name": "ttc_refractor",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ttiimmothy.github.io/ttc-refractor",
   "dependencies": {
     "@fluentui/react-components": "^9.9.1",
     "@fluentui/react-icons": "^2.0.191",
