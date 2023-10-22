@@ -1,5 +1,13 @@
 {
-  "cSpell.words": ["fluentui", "NVAS", "webfonts"],
+  "cSpell.words": [
+    "compat",
+    "eslintcache",
+    "fluentui",
+    "languagedetector",
+    "NVAS",
+    "tailwindcss",
+    "webfonts"
+  ],
   "files.associations": {
     "*.css": "tailwindcss"
   }
