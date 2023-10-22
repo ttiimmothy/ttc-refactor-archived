@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ttc-refractor/static/css/main.f8bbdade.css",
+    "main.js": "/ttc-refractor/static/js/main.55860a0f.js",
+    "static/js/496.5e9158b7.chunk.js": "/ttc-refractor/static/js/496.5e9158b7.chunk.js",
+    "service-worker.js": "/ttc-refractor/service-worker.js",
+    "index.html": "/ttc-refractor/index.html",
+    "main.f8bbdade.css.map": "/ttc-refractor/static/css/main.f8bbdade.css.map",
+    "main.55860a0f.js.map": "/ttc-refractor/static/js/main.55860a0f.js.map",
+    "496.5e9158b7.chunk.js.map": "/ttc-refractor/static/js/496.5e9158b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8bbdade.css",
+    "static/js/main.55860a0f.js"
+  ]
+}
