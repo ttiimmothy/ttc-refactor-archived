@@ -49,3 +49,7 @@ TTC Refractor is licensed under the MIT License.
 ## References
 
 TTC Refractor is built using data from [TTC Real-Time Next Vehicle Arrival (NVAS)](https://open.toronto.ca/dataset/ttc-real-time-next-vehicle-arrival-nvas/).
+
+## Inspiration
+
+This project was inspired by the work of the original authors of [ttc-bus-eta](https://github.com/thomassth/ttc-bus-eta). While this project is not a direct continuation of their work, it would not have been possible without their initial contributions. We would like to extend our thanks to them for providing a foundation upon which we could build this project.
