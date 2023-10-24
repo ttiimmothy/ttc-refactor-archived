@@ -1,6 +1,6 @@
 # TTC Refractor
 
-TTC Refractor is a real-time transit application that provides estimated arrival times (eta) for TTC buses and streetcars. With TTC Refractor, users can quickly and easily plan their commute and stay up-to-date with the latest arrival times. [Demo](https://hoipangcheung.github.io/ttc-refractor/)
+TTC Refractor is a real-time transit application that provides estimated arrival times (eta) for TTC buses and streetcars. With TTC Refractor, users can quickly and easily plan their commute and stay up-to-date with the latest arrival times. [Demo](https://ttiimmothy.github.io/ttc-refractor/)
 
 ## Features
 
@@ -13,7 +13,8 @@ Other features include:
 
 ## Prerequisites
 
-- `npm`
+- Node.js (version 12.0 or above)
+- npm (which comes with Node.js) or Yarn (version 1.22.0 or above)
 
 ## Getting Started
 
