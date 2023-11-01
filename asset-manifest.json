@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ttc-refractor/static/css/main.eac3d18e.css",
-    "main.js": "/ttc-refractor/static/js/main.89982165.js",
-    "static/js/496.5e9158b7.chunk.js": "/ttc-refractor/static/js/496.5e9158b7.chunk.js",
-    "service-worker.js": "/ttc-refractor/service-worker.js",
-    "index.html": "/ttc-refractor/index.html",
-    "main.eac3d18e.css.map": "/ttc-refractor/static/css/main.eac3d18e.css.map",
-    "main.89982165.js.map": "/ttc-refractor/static/js/main.89982165.js.map",
-    "496.5e9158b7.chunk.js.map": "/ttc-refractor/static/js/496.5e9158b7.chunk.js.map"
+    "main.css": "/ttc-refractor-archived/static/css/main.eac3d18e.css",
+    "main.js": "/ttc-refractor-archived/static/js/main.85eafef1.js",
+    "static/js/496.5e9158b7.chunk.js": "/ttc-refractor-archived/static/js/496.5e9158b7.chunk.js",
+    "service-worker.js": "/ttc-refractor-archived/service-worker.js",
+    "index.html": "/ttc-refractor-archived/index.html",
+    "main.eac3d18e.css.map": "/ttc-refractor-archived/static/css/main.eac3d18e.css.map",
+    "main.85eafef1.js.map": "/ttc-refractor-archived/static/js/main.85eafef1.js.map",
+    "496.5e9158b7.chunk.js.map": "/ttc-refractor-archived/static/js/496.5e9158b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eac3d18e.css",
-    "static/js/main.89982165.js"
+    "static/js/main.85eafef1.js"
   ]
 }
