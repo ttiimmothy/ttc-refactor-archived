@@ -27,11 +27,6 @@ export function StopAccordions(props: StopAccordionsParams) {
                 <Button icon={<VehicleBus16Filled />} />
               </Link>
             </div>
-            {/* <div className="lineDetails">
-              <a title={t("buttons.mapPin") ?? ""} href={stop.latLong}>
-                <Button icon={<Map24Filled />} />
-              </a>
-            </div> */}
             <div className="lineDetails">{stop.title}</div>
           </AccordionPanel>
         </li>
