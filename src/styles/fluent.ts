@@ -111,7 +111,7 @@ export const fluentStyles = makeStyles({
   },
   accordionPanel: {
     display: "grid",
-    gridTemplateColumns: "36px 36px auto",
+    gridTemplateColumns: "36px auto auto",
     gridAutoRows: "auto",
     paddingTop: "8px",
     paddingBottom: "8px",

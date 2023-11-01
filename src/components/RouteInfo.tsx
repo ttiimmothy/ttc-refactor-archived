@@ -1,12 +1,12 @@
 import { useCallback, useEffect, useState } from "react";
 
-import { lineDataEndpoint } from "../../constants/dataEndpoints";
-import { AbortError } from "../../constants/errors";
-import { ProcessedRouteDetail } from "../../models/route";
-import useNavigate from "../../routes/navigate";
-import { StopAccordions } from "../accordions/StopAccordions";
-import { FetchTtcData } from "../utils/fetch";
-import { extractRouteDataFromJson } from "../utils/jsonParser";
+import { lineDataEndpoint } from "../constants/dataEndpoints";
+import { AbortError } from "../constants/errors";
+import { ProcessedRouteDetail } from "../models/route";
+import useNavigate from "../routes/navigate";
+import { StopAccordions } from "./accordions/StopAccordions";
+import { FetchTtcData } from "./utils/fetch";
+import { extractRouteDataFromJson } from "./utils/jsonParser";
 
 export function RouteInfo(props: { line: number }): JSX.Element {
   const [lineNum] = useState(props.line);

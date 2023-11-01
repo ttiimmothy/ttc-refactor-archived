@@ -2,14 +2,14 @@ import { Badge, Card, Text } from "@fluentui/react-components";
 import { useCallback, useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 
-import { routeListEndpoint } from "../../constants/dataEndpoints";
-import { AbortError } from "../../constants/errors";
-import useNavigate from "../../routes/navigate";
-import { fluentStyles } from "../../styles/fluent";
-import { FetchTtcData } from "../utils/fetch";
-import { parseRouteTitle } from "../utils/routeName";
+import { routeListEndpoint } from "../constants/dataEndpoints";
+import { AbortError } from "../constants/errors";
+import useNavigate from "../routes/navigate";
+import { fluentStyles } from "../styles/fluent";
+import { FetchTtcData } from "./utils/fetch";
+import { parseRouteTitle } from "./utils/routeName";
 
-export function RoutesInfo() {
+export function AllRoutesInfo() {
   const { navigate } = useNavigate();
   const [routesDb, setRoutesDb] = useState<{ tag: number; title: string }[]>(
     []
