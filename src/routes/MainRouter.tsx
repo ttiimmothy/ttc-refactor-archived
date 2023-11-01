@@ -1,5 +1,3 @@
-// eslint-disable-next-line no-unused-vars
-import React from "react";
 import {
   Outlet,
   Route,
@@ -31,6 +29,6 @@ export const router = createBrowserRouter(
     </Route>
   ),
   {
-    basename: `${process.env.PUBLIC_URL}`,
+    basename: process.env.PUBLIC_URL,
   }
 );

@@ -3,7 +3,7 @@ import { t } from "i18next";
 import { useEffect } from "react";
 import { useParams } from "react-router-dom";
 
-import { RouteInfo } from "../components/fetch/FetchRoute";
+import { RouteInfo } from "../components/RouteInfo";
 
 export default function Line() {
   const params = useParams();
