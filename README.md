@@ -57,4 +57,4 @@ This project was inspired by the work of the original authors of [ttc-bus-eta](h
 
 ## Move to the current repository
 
-<https://ttiimmothy.github.io/ttc-refractor>
+<https://github.com/ttiimmothy/ttc-refractor>
