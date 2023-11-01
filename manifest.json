@@ -1,6 +1,6 @@
 {
-  "short_name": "TTC Next",
-  "name": "TTC Next",
+  "short_name": "TTC Refractor",
+  "name": "TTC Refractor",
   "description": "Showing estimated arrival times (eta) for TTC buses and streetcars",
   "icons": [
     {
@@ -9,12 +9,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo-192.png",
+      "src": "icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo-512.png",
+      "src": "icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     },
