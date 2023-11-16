@@ -1,6 +1,9 @@
-# TTC Refractor (Archived)
+# TTC Refactor Archived
+[![ci](https://github.com/ttiimmothy/ttc-refactor-archived/actions/workflows/ci.yml/badge.svg)](https://github.com/ttiimmothy/ttc-refactor-archived/actions/workflows/ci.yml)
+[![cd](https://github.com/ttiimmothy/ttc-refactor-archived/actions/workflows/cd.yml/badge.svg)](https://github.com/ttiimmothy/ttc-refactor-archived/actions/workflows/cd.yml)
+[![pages-build-deployment](https://github.com/ttiimmothy/ttc-refactor-archived/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ttiimmothy/ttc-refactor-archived/actions/workflows/pages/pages-build-deployment)
 
-TTC Refractor is a real-time transit application that provides estimated arrival times (eta) for TTC buses and streetcars. With TTC Refractor, users can quickly and easily plan their commute and stay up-to-date with the latest arrival times. [Demo](https://ttiimmothy.github.io/ttc-refractor-archived/)
+TTC Refactor Archived is a real-time transit application that provides estimated arrival times (eta) for TTC buses and streetcars. With TTC Refactor Archived, users can quickly and easily plan their commute and stay up-to-date with the latest arrival times. [Demo](https://ttiimmothy.github.io/ttc-refactor-archived/)
 
 ## Features
 
@@ -34,22 +37,13 @@ npm run start
 
 That's it! With just a few simple steps, you can quickly and easily find out when the next bus or streetcar will be arriving at your chosen stop.
 
-## Contributing
-
-We welcome contributions from other developers! To contribute to TTC Refractor, please follow these steps:
-
-- Fork the repository.
-- Create a new branch for your changes.
-- Make your changes and commit them to your branch.
-- Submit a pull request to merge your changes back into the main branch.
-
 ## License
 
-TTC Refractor is licensed under the MIT License.
+TTC Refactor Archived is licensed under [GNU General Public License v3.0](LICENSE).
 
 ## References
 
-TTC Refractor is built using data from [TTC Real-Time Next Vehicle Arrival (NVAS)](https://open.toronto.ca/dataset/ttc-real-time-next-vehicle-arrival-nvas/).
+TTC Refactor Archived is built using data from [TTC Real-Time Next Vehicle Arrival (NVAS)](https://open.toronto.ca/dataset/ttc-real-time-next-vehicle-arrival-nvas/).
 
 ## Inspiration
 
@@ -57,4 +51,4 @@ This project was inspired by the work of the original authors of [ttc-bus-eta](h
 
 ## Move to the current repository
 
-<https://github.com/ttiimmothy/ttc-refractor>
+<https://github.com/ttiimmothy/ttc-refactor-revamp>
