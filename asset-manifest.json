@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ttc-refactor-archived/static/css/main.eac3d18e.css",
-    "main.js": "/ttc-refactor-archived/static/js/main.31878e2e.js",
-    "static/js/496.5e9158b7.chunk.js": "/ttc-refactor-archived/static/js/496.5e9158b7.chunk.js",
+    "main.js": "/ttc-refactor-archived/static/js/main.eab77b50.js",
+    "static/js/496.defcd632.chunk.js": "/ttc-refactor-archived/static/js/496.defcd632.chunk.js",
     "service-worker.js": "/ttc-refactor-archived/service-worker.js",
     "index.html": "/ttc-refactor-archived/index.html",
     "main.eac3d18e.css.map": "/ttc-refactor-archived/static/css/main.eac3d18e.css.map",
-    "main.31878e2e.js.map": "/ttc-refactor-archived/static/js/main.31878e2e.js.map",
-    "496.5e9158b7.chunk.js.map": "/ttc-refactor-archived/static/js/496.5e9158b7.chunk.js.map"
+    "main.eab77b50.js.map": "/ttc-refactor-archived/static/js/main.eab77b50.js.map",
+    "496.defcd632.chunk.js.map": "/ttc-refactor-archived/static/js/496.defcd632.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eac3d18e.css",
-    "static/js/main.31878e2e.js"
+    "static/js/main.eab77b50.js"
   ]
 }
