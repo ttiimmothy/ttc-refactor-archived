@@ -1,5 +1,5 @@
 {
-  "name": "ttc_refractor",
+  "name": "ttc_refactor_archived",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://ttiimmothy.github.io/ttc-refactor-archived",
@@ -83,7 +83,6 @@
     "eslint": "^8.31.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-jest": "^27.2.1",
-    "gh-pages": "^5.0.0",
     "prettier": "^2.8.2",
     "react-scripts": "5.0.1",
     "react-test-renderer": "^18.2.0"
