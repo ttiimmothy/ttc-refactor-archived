@@ -51,4 +51,4 @@ This project was inspired by the work of the original authors of [ttc-bus-eta](h
 
 ## Move to the current repository
 
-[ttiimmothy/ttc-refactor]<https://github.com/ttiimmothy/ttc-refactor>
+[ttiimmothy/ttc-refactor](https://github.com/ttiimmothy/ttc-refactor)
