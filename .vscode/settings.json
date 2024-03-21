@@ -5,6 +5,8 @@
     "fluentui",
     "languagedetector",
     "NVAS",
+    "precaching",
+    "svgr",
     "tailwindcss",
     "webfonts"
   ],
